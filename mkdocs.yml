@@ -1,6 +1,8 @@
-site_name: 100 Days of Docs - Getting started with MkDocs
+site_name: Getting started with MkDocs
 site_url: https://example.com/
 nav:
     - Home: index.md
     - About: about.md
     - Resources: additional.md
+theme:
+    material
